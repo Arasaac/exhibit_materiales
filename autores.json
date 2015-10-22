@@ -1,0 +1,1559 @@
+{
+    "items": [{
+        "type": "autor",
+        "id": "a1",
+        "label": "Sin definir"
+    }, {
+        "type": "autor",
+        "id": "a2",
+        "label": "Sergio Palao"
+    }, {
+        "type": "autor",
+        "id": "a3",
+        "label": "Grupo Auton\u00f3mico Elaboracion Simbolos"
+    }, {
+        "type": "autor",
+        "id": "a4",
+        "label": "C\u00e9sar Canalis Casas\u00fas"
+    }, {
+        "type": "autor",
+        "id": "a5",
+        "label": "Jos\u00e9 Manuel Marcos Rodrigo"
+    }, {
+        "type": "autor",
+        "id": "a6",
+        "label": "Fedra Mota Manero"
+    }, {
+        "type": "autor",
+        "id": "a7",
+        "label": "Pilar Delgado"
+    }, {
+        "type": "autor",
+        "id": "a8",
+        "label": "Vanesa Marcuello Gracia"
+    }, {
+        "type": "autor",
+        "id": "a9",
+        "label": "Ana Heredia Sanz"
+    }, {
+        "type": "autor",
+        "id": "a10",
+        "label": "Isabel Calder\u00f3n"
+    }, {
+        "type": "autor",
+        "id": "a11",
+        "label": "Ana Isabel \u00c1lava Jim\u00e9nez"
+    }, {
+        "type": "autor",
+        "id": "a12",
+        "label": "Rosa As\u00edn Urqu\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a13",
+        "label": "Maria Carmen Guillen Hinojosa"
+    }, {
+        "type": "autor",
+        "id": "a14",
+        "label": "Valeria Osorio Ubillo"
+    }, {
+        "type": "autor",
+        "id": "a15",
+        "label": "Marta Mu\u00f1oz Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a16",
+        "label": "Yolanda Morcillo Morcillo"
+    }, {
+        "type": "autor",
+        "id": "a17",
+        "label": "Josefa R\u00edos Mar\u00edn"
+    }, {
+        "type": "autor",
+        "id": "a18",
+        "label": "M\u00f3nica Salvo"
+    }, {
+        "type": "autor",
+        "id": "a19",
+        "label": "Amaya Padilla Collado"
+    }, {
+        "type": "autor",
+        "id": "a20",
+        "label": "Gines Ciudad-real"
+    }, {
+        "type": "autor",
+        "id": "a21",
+        "label": "Maribel Mart\u00ednez"
+    }, {
+        "type": "autor",
+        "id": "a22",
+        "label": "Cristina Claver\u00eda Hern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a23",
+        "label": "Jorge Gimeno Pelegr\u00edn"
+    }, {
+        "type": "autor",
+        "id": "a24",
+        "label": "Raquel No\u00e9 L\u00f3pez"
+    }, {
+        "type": "autor",
+        "id": "a25",
+        "label": "M\u00aa Pilar Marcos"
+    }, {
+        "type": "autor",
+        "id": "a26",
+        "label": "Soledad L\u00f3pez Abril "
+    }, {
+        "type": "autor",
+        "id": "a27",
+        "label": "Elena Medina Moya"
+    }, {
+        "type": "autor",
+        "id": "a28",
+        "label": "Soraya Bueno Casado"
+    }, {
+        "type": "autor",
+        "id": "a29",
+        "label": "Marisa Royo"
+    }, {
+        "type": "autor",
+        "id": "a30",
+        "label": "Eva Rodr\u00edguez Gonz\u00e1lez"
+    }, {
+        "type": "autor",
+        "id": "a31",
+        "label": "Manuel Merelas Sancho"
+    }, {
+        "type": "autor",
+        "id": "a32",
+        "label": "Rosa M\u00aa Gonz\u00e1lez"
+    }, {
+        "type": "autor",
+        "id": "a33",
+        "label": "Sergio Ortiz Cerver\u00f3"
+    }, {
+        "type": "autor",
+        "id": "a34",
+        "label": "M\u00aa Carmen P\u00e9rez Gonz\u00e1lez"
+    }, {
+        "type": "autor",
+        "id": "a35",
+        "label": "M\u00aa Victoria Lagu\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a36",
+        "label": "M\u00aa Dolores Gonz\u00e1lez Valls"
+    }, {
+        "type": "autor",
+        "id": "a37",
+        "label": "Elena Miranda Lopez de Murillas"
+    }, {
+        "type": "autor",
+        "id": "a38",
+        "label": "Eugenia Romero"
+    }, {
+        "type": "autor",
+        "id": "a39",
+        "label": "Miriam Rodr\u00edguez Pintos"
+    }, {
+        "type": "autor",
+        "id": "a40",
+        "label": "Mar\u00eda Y\u00e1\u00f1ez Calvi\u00f1o"
+    }, {
+        "type": "autor",
+        "id": "a41",
+        "label": "In\u00e9s Garc\u00eda Silva"
+    }, {
+        "type": "autor",
+        "id": "a42",
+        "label": "Mabel Freixes de Brahim "
+    }, {
+        "type": "autor",
+        "id": "a43",
+        "label": "Fundaci\u00f3n ASZA"
+    }, {
+        "type": "autor",
+        "id": "a44",
+        "label": "Anabel Cornago "
+    }, {
+        "type": "autor",
+        "id": "a45",
+        "label": "Juana Bayo"
+    }, {
+        "type": "autor",
+        "id": "a46",
+        "label": "Carol Guill\u00e9n Medina "
+    }, {
+        "type": "autor",
+        "id": "a47",
+        "label": "Paula Garc\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a48",
+        "label": "Natalia M. G\u00f3mez Jorge"
+    }, {
+        "type": "autor",
+        "id": "a49",
+        "label": "Carlos Nagata"
+    }, {
+        "type": "autor",
+        "id": "a50",
+        "label": "Conchita Gracia Tomey"
+    }, {
+        "type": "autor",
+        "id": "a51",
+        "label": "Laida Espinal Larrea "
+    }, {
+        "type": "autor",
+        "id": "a52",
+        "label": "Marta Regueiro \u00c1lvarez"
+    }, {
+        "type": "autor",
+        "id": "a53",
+        "label": "Maite Dalmau"
+    }, {
+        "type": "autor",
+        "id": "a54",
+        "label": "Miriam Reyes Oliva"
+    }, {
+        "type": "autor",
+        "id": "a55",
+        "label": "Adriana Mu\u00f1oz de la Nava S\u00e1nchez"
+    }, {
+        "type": "autor",
+        "id": "a56",
+        "label": "Miren Garbi\u00f1e Candina Acebes"
+    }, {
+        "type": "autor",
+        "id": "a57",
+        "label": "Belinda Haro Castilla"
+    }, {
+        "type": "autor",
+        "id": "a60",
+        "label": "Alberto Abarca Fillat"
+    }, {
+        "type": "autor",
+        "id": "a61",
+        "label": "Usue Ortiz"
+    }, {
+        "type": "autor",
+        "id": "a62",
+        "label": "Luc\u00eda Timpanaro"
+    }, {
+        "type": "autor",
+        "id": "a63",
+        "label": "Ana Cristina Alvarez Martin"
+    }, {
+        "type": "autor",
+        "id": "a64",
+        "label": "Maite Per"
+    }, {
+        "type": "autor",
+        "id": "a65",
+        "label": "\u00c1ngeles Latorre Bel"
+    }, {
+        "type": "autor",
+        "id": "a66",
+        "label": "KIOSKO BAR ALBORADA"
+    }, {
+        "type": "autor",
+        "id": "a67",
+        "label": "Cristina Mor\u00e1n Gordillo"
+    }, {
+        "type": "autor",
+        "id": "a68",
+        "label": "M\u00aa Jos\u00e9 Pardo Calvo"
+    }, {
+        "type": "autor",
+        "id": "a69",
+        "label": "Margarita Santos"
+    }, {
+        "type": "autor",
+        "id": "a70",
+        "label": "Esther Fern\u00e1ndez Mart\u00ednez"
+    }, {
+        "type": "autor",
+        "id": "a71",
+        "label": "M\u00aa Carmen Santos"
+    }, {
+        "type": "autor",
+        "id": "a72",
+        "label": "Carmen Casado Gonz\u00e1lez"
+    }, {
+        "type": "autor",
+        "id": "a73",
+        "label": "Cristina Barrera Dom\u00ednguez"
+    }, {
+        "type": "autor",
+        "id": "a74",
+        "label": "Maite Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a75",
+        "label": "M\u00aa Paz Ferr\u00e1ndez Pardos"
+    }, {
+        "type": "autor",
+        "id": "a76",
+        "label": "Marta Cebri\u00e1n Borau"
+    }, {
+        "type": "autor",
+        "id": "a77",
+        "label": "M\u00aa Carmen Mart\u00edn Cort\u00e9s"
+    }, {
+        "type": "autor",
+        "id": "a78",
+        "label": "Nuria L\u00e1zaro"
+    }, {
+        "type": "autor",
+        "id": "a79",
+        "label": "Ana Vicente"
+    }, {
+        "type": "autor",
+        "id": "a80",
+        "label": "Ana Moliner"
+    }, {
+        "type": "autor",
+        "id": "a81",
+        "label": "Mar\u00eda Romero"
+    }, {
+        "type": "autor",
+        "id": "a82",
+        "label": "Marta Pe"
+    }, {
+        "type": "autor",
+        "id": "a83",
+        "label": "Esther Cabrero Montes"
+    }, {
+        "type": "autor",
+        "id": "a84",
+        "label": "Juan Gallego Blanco"
+    }, {
+        "type": "autor",
+        "id": "a85",
+        "label": "Sara Vilas"
+    }, {
+        "type": "autor",
+        "id": "a86",
+        "label": "Christian-del Mundo Coxca"
+    }, {
+        "type": "autor",
+        "id": "a87",
+        "label": "Marta L\u00f3pez Viso"
+    }, {
+        "type": "autor",
+        "id": "a88",
+        "label": "Ruth Rodr\u00edguez P\u00e9rez"
+    }, {
+        "type": "autor",
+        "id": "a90",
+        "label": "Cristina Roqueta"
+    }, {
+        "type": "autor",
+        "id": "a91",
+        "label": "\u00c1ngeles Pi\u00f1eiro S\u00e1nchez"
+    }, {
+        "type": "autor",
+        "id": "a92",
+        "label": "Laura Prieto Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a93",
+        "label": "Esmeralda Cubero Gimeno"
+    }, {
+        "type": "autor",
+        "id": "a94",
+        "label": "Elena Serrano Serrano"
+    }, {
+        "type": "autor",
+        "id": "a95",
+        "label": "Esther Poblador Plou"
+    }, {
+        "type": "autor",
+        "id": "a96",
+        "label": "Concepci\u00f3n Mar\u00edn Portero"
+    }, {
+        "type": "autor",
+        "id": "a97",
+        "label": "Javier P\u00e9rez Laco"
+    }, {
+        "type": "autor",
+        "id": "a98",
+        "label": "Celia Mar\u00ed Alcantud"
+    }, {
+        "type": "autor",
+        "id": "a99",
+        "label": "Unitat de T\u00e9cniques Augmentatives de Comunicaci\u00f3 (UTAC)"
+    }, {
+        "type": "autor",
+        "id": "a100",
+        "label": "Alicia L\u00f3pez Romero"
+    }, {
+        "type": "autor",
+        "id": "a101",
+        "label": "Estibaliz L\u00f3pez de Abechuco"
+    }, {
+        "type": "autor",
+        "id": "a102",
+        "label": "Rebeca Cabrera Urqu\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a103",
+        "label": "Ana Benedicto Villarroya"
+    }, {
+        "type": "autor",
+        "id": "a105",
+        "label": "M\u00aa Pilar Vicente P\u00e9rez"
+    }, {
+        "type": "autor",
+        "id": "a112",
+        "label": "Ana Escobedo Enfedaque"
+    }, {
+        "type": "autor",
+        "id": "a162",
+        "label": "Pilar Andr\u00e9s Sisam\u00f3n"
+    }, {
+        "type": "autor",
+        "id": "a108",
+        "label": "Amelia Larena Manceb\u00f3n"
+    }, {
+        "type": "autor",
+        "id": "a109",
+        "label": "Ana M\u00aa Gisbert Montaner"
+    }, {
+        "type": "autor",
+        "id": "a110",
+        "label": "M\u00aa Pilar Arzoz P\u00e9rez"
+    }, {
+        "type": "autor",
+        "id": "a113",
+        "label": "Lara Losada Puertas"
+    }, {
+        "type": "autor",
+        "id": "a114",
+        "label": "Mercedes Gar\u00edn"
+    }, {
+        "type": "autor",
+        "id": "a115",
+        "label": "LOLI MARQU\u00c9S AVIL\u00c9S"
+    }, {
+        "type": "autor",
+        "id": "a116",
+        "label": "Paco Navas"
+    }, {
+        "type": "autor",
+        "id": "a117",
+        "label": "Isabelle Van Leeuwen"
+    }, {
+        "type": "autor",
+        "id": "a118",
+        "label": "Yurena Gonz\u00e1lez Y\u00e1nez"
+    }, {
+        "type": "autor",
+        "id": "a119",
+        "label": "Maria Leonor Criado"
+    }, {
+        "type": "autor",
+        "id": "a120",
+        "label": "In\u00e9s Casal Barreiro"
+    }, {
+        "type": "autor",
+        "id": "a123",
+        "label": "Eva Formoso Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a122",
+        "label": "Maria Sol Viegener"
+    }, {
+        "type": "autor",
+        "id": "a124",
+        "label": "Marina Mar\u00eda Gotelli"
+    }, {
+        "type": "autor",
+        "id": "a125",
+        "label": "Susana Ac\u00f3n"
+    }, {
+        "type": "autor",
+        "id": "a126",
+        "label": "Lupe Montero de Espinosa"
+    }, {
+        "type": "autor",
+        "id": "a127",
+        "label": "Ester Soler"
+    }, {
+        "type": "autor",
+        "id": "a128",
+        "label": "Inma Parejo"
+    }, {
+        "type": "autor",
+        "id": "a129",
+        "label": "Jorge Moreno"
+    }, {
+        "type": "autor",
+        "id": "a130",
+        "label": "Ana Moreno"
+    }, {
+        "type": "autor",
+        "id": "a131",
+        "label": "CRMF Salamanca"
+    }, {
+        "type": "autor",
+        "id": "a132",
+        "label": "Santiago R\u00edos"
+    }, {
+        "type": "autor",
+        "id": "a133",
+        "label": "Fundaci\u00f3n Privada \u00c0uria"
+    }, {
+        "type": "autor",
+        "id": "a134",
+        "label": "Maria Jim\u00e9nez"
+    }, {
+        "type": "autor",
+        "id": "a135",
+        "label": "Elena Galera Madero"
+    }, {
+        "type": "autor",
+        "id": "a136",
+        "label": "Mayte Calavia"
+    }, {
+        "type": "autor",
+        "id": "a137",
+        "label": "Flor Maria Tellado Lopez"
+    }, {
+        "type": "autor",
+        "id": "a138",
+        "label": "ALMUDENA VERGARA CARDONA"
+    }, {
+        "type": "autor",
+        "id": "a139",
+        "label": "Diana Pedr\u00f3s Salvo"
+    }, {
+        "type": "autor",
+        "id": "a140",
+        "label": "Felo Couto"
+    }, {
+        "type": "autor",
+        "id": "a141",
+        "label": "Bego\u00f1a Juarrero Rodrigo"
+    }, {
+        "type": "autor",
+        "id": "a142",
+        "label": "Maria Nascimento"
+    }, {
+        "type": "autor",
+        "id": "a143",
+        "label": "Ver\u00f3nica Vicente de la Torre"
+    }, {
+        "type": "autor",
+        "id": "a144",
+        "label": "Lola Oriol Vall\u00e9s"
+    }, {
+        "type": "autor",
+        "id": "a145",
+        "label": "Pepa Aguilar Torres"
+    }, {
+        "type": "autor",
+        "id": "a146",
+        "label": "Clara I. Delgado Santos"
+    }, {
+        "type": "autor",
+        "id": "a148",
+        "label": "F\u00e1tima Collado Mart\u00edn"
+    }, {
+        "type": "autor",
+        "id": "a149",
+        "label": "Eugenia M\u00e1rquez Rodr\u00edguez"
+    }, {
+        "type": "autor",
+        "id": "a150",
+        "label": "M\u00f3nica Rom\u00e1n Jim\u00e9nez"
+    }, {
+        "type": "autor",
+        "id": "a151",
+        "label": "Natalia Dom\u00ednguez Estop"
+    }, {
+        "type": "autor",
+        "id": "a152",
+        "label": "Graciela Sanz Beguer\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a153",
+        "label": "Setefilla Lopez"
+    }, {
+        "type": "autor",
+        "id": "a154",
+        "label": "M\u00aa Cruz da silva Rubio"
+    }, {
+        "type": "autor",
+        "id": "a155",
+        "label": "Amaya Gil"
+    }, {
+        "type": "autor",
+        "id": "a156",
+        "label": "Sara Escu\u00edn Leal"
+    }, {
+        "type": "autor",
+        "id": "a157",
+        "label": "Nuria Rangel"
+    }, {
+        "type": "autor",
+        "id": "a158",
+        "label": "Ascensi\u00f3n Aguilar Ida\u00f1ez"
+    }, {
+        "type": "autor",
+        "id": "a159",
+        "label": "Isis Anabey Lugo Enciso"
+    }, {
+        "type": "autor",
+        "id": "a160",
+        "label": "Laura Salanova"
+    }, {
+        "type": "autor",
+        "id": "a161",
+        "label": "Marta Laiz"
+    }, {
+        "type": "autor",
+        "id": "a163",
+        "label": "Patricia N\u00e1cher Sierra"
+    }, {
+        "type": "autor",
+        "id": "a164",
+        "label": "Jos\u00e9 Ram\u00f3n Garc\u00e9s Viu"
+    }, {
+        "type": "autor",
+        "id": "a165",
+        "label": "Raquel Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a166",
+        "label": "Lola Garc\u00eda Cucal\u00f3n"
+    }, {
+        "type": "autor",
+        "id": "a167",
+        "label": "David Romero Corral"
+    }, {
+        "type": "autor",
+        "id": "a168",
+        "label": "M\u00aa Del Mar De La Calle Oll\u00e9s"
+    }, {
+        "type": "autor",
+        "id": "a169",
+        "label": "CPEE Alborada"
+    }, {
+        "type": "autor",
+        "id": "a170",
+        "label": "Laura Mu\u00f1ino Gil"
+    }, {
+        "type": "autor",
+        "id": "a171",
+        "label": "Mar Mart\u00ednez Romeo"
+    }, {
+        "type": "autor",
+        "id": "a172",
+        "label": "Virginia Blanco"
+    }, {
+        "type": "autor",
+        "id": "a173",
+        "label": "Sara Mejuto Ceresuela"
+    }, {
+        "type": "autor",
+        "id": "a174",
+        "label": "Rut Jimenez Tiemblo"
+    }, {
+        "type": "autor",
+        "id": "a175",
+        "label": "Ana Pueyo Soler"
+    }, {
+        "type": "autor",
+        "id": "a176",
+        "label": "Dana Horodetchi"
+    }, {
+        "type": "autor",
+        "id": "a177",
+        "label": "V\u00edctor D\u00edaz"
+    }, {
+        "type": "autor",
+        "id": "a178",
+        "label": "Mercedes D\u00edez "
+    }, {
+        "type": "autor",
+        "id": "a179",
+        "label": "Laura Holguin"
+    }, {
+        "type": "autor",
+        "id": "a180",
+        "label": "Lorena Gonz\u00e1lez L\u00f3pez"
+    }, {
+        "type": "autor",
+        "id": "a181",
+        "label": "Elsa Mantilla Vergel"
+    }, {
+        "type": "autor",
+        "id": "a182",
+        "label": "Carmen Sancho Sah\u00fan"
+    }, {
+        "type": "autor",
+        "id": "a183",
+        "label": "Carlos Mozota"
+    }, {
+        "type": "autor",
+        "id": "a184",
+        "label": "Rosal\u00eda G\u00f3mez Garc\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a185",
+        "label": "Luc\u00eda Fern\u00e1ndez Vivancos"
+    }, {
+        "type": "autor",
+        "id": "a186",
+        "label": "Departamento de Inform\u00e1tica e Ingenier\u00eda de Sistemas del CPS de Zaragoza"
+    }, {
+        "type": "autor",
+        "id": "a187",
+        "label": "CPEE Alborada"
+    }, {
+        "type": "autor",
+        "id": "a188",
+        "label": "CATEDU"
+    }, {
+        "type": "autor",
+        "id": "a189",
+        "label": "Joaqu\u00edn P\u00e9rez Marco"
+    }, {
+        "type": "autor",
+        "id": "a190",
+        "label": "Joaquin Ezpeleta"
+    }, {
+        "type": "autor",
+        "id": "a191",
+        "label": "Rub\u00e9n Velasco"
+    }, {
+        "type": "autor",
+        "id": "a192",
+        "label": "Daniel Mu\u00f1oz Garc\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a193",
+        "label": "Juan Carlos Gonzalez Montesino"
+    }, {
+        "type": "autor",
+        "id": "a194",
+        "label": "Jose Martinez Gonzalez"
+    }, {
+        "type": "autor",
+        "id": "a195",
+        "label": "Instituto de Investigaci\u00f3n en Ingenier\u00eda de Arag\u00f3n (I3A)"
+    }, {
+        "type": "autor",
+        "id": "a196",
+        "label": "Grupo de Tecnolog\u00edas de las Comunicaciones (GTC)"
+    }, {
+        "type": "autor",
+        "id": "a197",
+        "label": "Martijn van der Kooij"
+    }, {
+        "type": "autor",
+        "id": "a198",
+        "label": "Sabina Barrios Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a199",
+        "label": "Laura Tremps Zapater"
+    }, {
+        "type": "autor",
+        "id": "a200",
+        "label": "Luisa Jim\u00e9nez de la Blanca"
+    }, {
+        "type": "autor",
+        "id": "a201",
+        "label": "M\u00aa Amor Ordiz Su\u00e1rez"
+    }, {
+        "type": "autor",
+        "id": "a202",
+        "label": "Cristina Mart\u00edn Garc\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a203",
+        "label": "Marta Gimenez Mart\u00ednez"
+    }, {
+        "type": "autor",
+        "id": "a204",
+        "label": "Beatriz Samper"
+    }, {
+        "type": "autor",
+        "id": "a205",
+        "label": "Tere Palacios"
+    }, {
+        "type": "autor",
+        "id": "a206",
+        "label": "Mar\u00eda Repoll\u00e9s"
+    }, {
+        "type": "autor",
+        "id": "a207",
+        "label": "Marta Izquierdo Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a208",
+        "label": "Ana Vicente Aladr\u00e9n"
+    }, {
+        "type": "autor",
+        "id": "a209",
+        "label": "Eneritz Zabaleta San Sebastian"
+    }, {
+        "type": "autor",
+        "id": "a210",
+        "label": "Daniel Bronzeri Barbosa"
+    }, {
+        "type": "autor",
+        "id": "a211",
+        "label": "Paulo Rog\u00e9rio Panhoto"
+    }, {
+        "type": "autor",
+        "id": "a212",
+        "label": "Juliana Remorini"
+    }, {
+        "type": "autor",
+        "id": "a213",
+        "label": "Roberto Elvira Jr."
+    }, {
+        "type": "autor",
+        "id": "a214",
+        "label": "Centro IMEDIR"
+    }, {
+        "type": "autor",
+        "id": "a215",
+        "label": "Fundacion Orange"
+    }, {
+        "type": "autor",
+        "id": "a216",
+        "label": "Accegal"
+    }, {
+        "type": "autor",
+        "id": "a217",
+        "label": "Enrique Costa Montenegro"
+    }, {
+        "type": "autor",
+        "id": "a218",
+        "label": "F\u00e1tima Mar\u00eda Garc\u00eda Doval"
+    }, {
+        "type": "autor",
+        "id": "a219",
+        "label": "Fundaci\u00f3n Dr. Carlos El\u00f3segui"
+    }, {
+        "type": "autor",
+        "id": "a220",
+        "label": "Famiglie Cornelia De Lange"
+    }, {
+        "type": "autor",
+        "id": "a221",
+        "label": "Vidmantas Zemleris"
+    }, {
+        "type": "autor",
+        "id": "a222",
+        "label": "Aidan McEvoy"
+    }, {
+        "type": "autor",
+        "id": "a223",
+        "label": "Lola Navas"
+    }, {
+        "type": "autor",
+        "id": "a224",
+        "label": "Esther Cuadrado Barber\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a225",
+        "label": "Lorenzo Moreno"
+    }, {
+        "type": "autor",
+        "id": "a226",
+        "label": "Lidia Ascariz Gegunde"
+    }, {
+        "type": "autor",
+        "id": "a227",
+        "label": "Aurora Garrigos"
+    }, {
+        "type": "autor",
+        "id": "a228",
+        "label": "Francisco Javier Mora"
+    }, {
+        "type": "autor",
+        "id": "a229",
+        "label": "Ana Rodr\u00edguez Anoro"
+    }, {
+        "type": "autor",
+        "id": "a230",
+        "label": "M\u00aa Jos\u00e9 Bea Gresa"
+    }, {
+        "type": "autor",
+        "id": "a231",
+        "label": "Menchu Gallego L\u00f3pez"
+    }, {
+        "type": "autor",
+        "id": "a232",
+        "label": "Maiaio Pozo"
+    }, {
+        "type": "autor",
+        "id": "a233",
+        "label": "Carmen Fern\u00e1ndez Cacho"
+    }, {
+        "type": "autor",
+        "id": "a234",
+        "label": "Belen Mateo Martinez"
+    }, {
+        "type": "autor",
+        "id": "a235",
+        "label": "Sof\u00eda Dorado Arruga"
+    }, {
+        "type": "autor",
+        "id": "a236",
+        "label": "Elisabeth Pajuelo Cuadrado"
+    }, {
+        "type": "autor",
+        "id": "a237",
+        "label": "COCEMFE Ceuta"
+    }, {
+        "type": "autor",
+        "id": "a238",
+        "label": "Gabriela Lillo Ba\u00f1\u00f3n"
+    }, {
+        "type": "autor",
+        "id": "a239",
+        "label": "Anche Broch"
+    }, {
+        "type": "autor",
+        "id": "a240",
+        "label": "Iciar Val Burguete"
+    }, {
+        "type": "autor",
+        "id": "a242",
+        "label": " AFANDEM-Grupo Am\u00e1s"
+    }, {
+        "type": "autor",
+        "id": "a243",
+        "label": "Fundaci\u00f3n Aprocor"
+    }, {
+        "type": "autor",
+        "id": "a244",
+        "label": "Fundaci\u00f3n Gil Gayarre"
+    }, {
+        "type": "autor",
+        "id": "a245",
+        "label": "Hogar Don Orione"
+    }, {
+        "type": "autor",
+        "id": "a246",
+        "label": "FEAPS"
+    }, {
+        "type": "autor",
+        "id": "a247",
+        "label": "CEAPAT"
+    }, {
+        "type": "autor",
+        "id": "a248",
+        "label": "FEAPS - Madrid"
+    }, {
+        "type": "autor",
+        "id": "a249",
+        "label": "UTAC"
+    }, {
+        "type": "autor",
+        "id": "a250",
+        "label": "Corporaci\u00f3n Aragonesa de Radio y Televisi\u00f3n"
+    }, {
+        "type": "autor",
+        "id": "a251",
+        "label": "Carmen L\u00f3pez Donoso"
+    }, {
+        "type": "autor",
+        "id": "a252",
+        "label": "FUNDOSA"
+    }, {
+        "type": "autor",
+        "id": "a253",
+        "label": "ARASAAC"
+    }, {
+        "type": "autor",
+        "id": "a254",
+        "label": "Dolores Abril Abad\u00edn"
+    }, {
+        "type": "autor",
+        "id": "a255",
+        "label": "\u00c1ngela Vigara Cerrato"
+    }, {
+        "type": "autor",
+        "id": "a256",
+        "label": "Fundaci\u00f3 el Maresme"
+    }, {
+        "type": "autor",
+        "id": "a257",
+        "label": "Almudena G. Negrete"
+    }, {
+        "type": "autor",
+        "id": "a258",
+        "label": "Ideasamares"
+    }, {
+        "type": "autor",
+        "id": "a259",
+        "label": "Liliam Serrano Viloria "
+    }, {
+        "type": "autor",
+        "id": "a260",
+        "label": "Ayuntamiento de M\u00e1laga"
+    }, {
+        "type": "autor",
+        "id": "a261",
+        "label": "Ayuntamiento de Estepona"
+    }, {
+        "type": "autor",
+        "id": "a262",
+        "label": "Marta Garc\u00eda Azpiroz"
+    }, {
+        "type": "autor",
+        "id": "a263",
+        "label": "Javier Marco Rubio"
+    }, {
+        "type": "autor",
+        "id": "a264",
+        "label": "Sandra Baldasarri"
+    }, {
+        "type": "autor",
+        "id": "a265",
+        "label": "Eva Cerezo Bagdasari"
+    }, {
+        "type": "autor",
+        "id": "a266",
+        "label": "Ana Mar\u00eda Mena Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a267",
+        "label": "Margari Gutierrez"
+    }, {
+        "type": "autor",
+        "id": "a268",
+        "label": "Cristina Fern\u00e1ndez Villena"
+    }, {
+        "type": "autor",
+        "id": "a269",
+        "label": "Elena Marcos"
+    }, {
+        "type": "autor",
+        "id": "a270",
+        "label": "Kika Fumero Purri\u00f1o"
+    }, {
+        "type": "autor",
+        "id": "a272",
+        "label": "Ana Puerta Gonz\u00e1lez"
+    }, {
+        "type": "autor",
+        "id": "a273",
+        "label": "Nieves L\u00f3pez Pons"
+    }, {
+        "type": "autor",
+        "id": "a274",
+        "label": "Antonio del Monte Mill\u00e1n"
+    }, {
+        "type": "autor",
+        "id": "a275",
+        "label": "Aroa Bautista"
+    }, {
+        "type": "autor",
+        "id": "a276",
+        "label": "Mar\u00eda Jes\u00fas Rodr\u00edguez Arenas"
+    }, {
+        "type": "autor",
+        "id": "a277",
+        "label": "Arantxa Aizpitarte"
+    }, {
+        "type": "autor",
+        "id": "a278",
+        "label": "Meri S\u00e1nchez"
+    }, {
+        "type": "autor",
+        "id": "a279",
+        "label": "Aplex Factory"
+    }, {
+        "type": "autor",
+        "id": "a280",
+        "label": "Grupo Promedia"
+    }, {
+        "type": "autor",
+        "id": "a281",
+        "label": "TVA del CPEE Alborada"
+    }, {
+        "type": "autor",
+        "id": "a282",
+        "label": "M\u00aa Pilar Ariza"
+    }, {
+        "type": "autor",
+        "id": "a283",
+        "label": "M\u00aa Jos\u00e9 Garc\u00eda Hidalgo"
+    }, {
+        "type": "autor",
+        "id": "a284",
+        "label": "Groupe Pulse APF"
+    }, {
+        "type": "autor",
+        "id": "a285",
+        "label": "Sonia Gri\u00f1\u00e1n Mart\u00ednez"
+    }, {
+        "type": "autor",
+        "id": "a286",
+        "label": "Carolina G\u00f3mez"
+    }, {
+        "type": "autor",
+        "id": "a287",
+        "label": "Elena Garc\u00eda Morell"
+    }, {
+        "type": "autor",
+        "id": "a288",
+        "label": "Susana Moreno Hern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a289",
+        "label": "Montserrat Carrera"
+    }, {
+        "type": "autor",
+        "id": "a290",
+        "label": "Ana Blasco"
+    }, {
+        "type": "autor",
+        "id": "a291",
+        "label": "Dagmar Gabriela Nedelcu"
+    }, {
+        "type": "autor",
+        "id": "a292",
+        "label": "Isidro Romero Barroso"
+    }, {
+        "type": "autor",
+        "id": "a293",
+        "label": "Jaione Cenigaonaindia  Aspiazu"
+    }, {
+        "type": "autor",
+        "id": "a294",
+        "label": "Vicenta P\u00e9rez Devesa"
+    }, {
+        "type": "autor",
+        "id": "a295",
+        "label": "Seyla Ballesteros Andujar"
+    }, {
+        "type": "autor",
+        "id": "a296",
+        "label": "Leles Ortiga"
+    }, {
+        "type": "autor",
+        "id": "a297",
+        "label": " Esther Andres"
+    }, {
+        "type": "autor",
+        "id": "a298",
+        "label": "Eva Elorrieta"
+    }, {
+        "type": "autor",
+        "id": "a299",
+        "label": "Long Yu"
+    }, {
+        "type": "autor",
+        "id": "a300",
+        "label": "Ariadna Angl\u00e8s L\u00f3pez "
+    }, {
+        "type": "autor",
+        "id": "a301",
+        "label": "Lorena Mancebo Su\u00e1rez"
+    }, {
+        "type": "autor",
+        "id": "a302",
+        "label": "Beatriz Polo"
+    }, {
+        "type": "autor",
+        "id": "a303",
+        "label": "Victoria Salvo"
+    }, {
+        "type": "autor",
+        "id": "a304",
+        "label": "Olivia Corrales"
+    }, {
+        "type": "autor",
+        "id": "a305",
+        "label": "Ang\u00e9lica Carr\u00f3n Iglesias"
+    }, {
+        "type": "autor",
+        "id": "a306",
+        "label": "Ana M\u00aa Cruz J\u00f3dar"
+    }, {
+        "type": "autor",
+        "id": "a307",
+        "label": "Salva Cuenca"
+    }, {
+        "type": "autor",
+        "id": "a308",
+        "label": "Mari\u00f1e Rodr\u00edguez Echevarr\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a309",
+        "label": "Miriam Ranera Garc\u00eda"
+    }, {
+        "type": "autor",
+        "id": "a310",
+        "label": "Maria Jos\u00e9 Ja\u00f1a"
+    }, {
+        "type": "autor",
+        "id": "a311",
+        "label": "Zunilda Romay Valdez"
+    }, {
+        "type": "autor",
+        "id": "a312",
+        "label": "Mayka Otero"
+    }, {
+        "type": "autor",
+        "id": "a313",
+        "label": "Kursaal"
+    }, {
+        "type": "autor",
+        "id": "a314",
+        "label": "Gautena"
+    }, {
+        "type": "autor",
+        "id": "a315",
+        "label": "Joaqu\u00edn Fuentes Biggi"
+    }, {
+        "type": "autor",
+        "id": "a316",
+        "label": "Ayuntamiento de Sagunto"
+    }, {
+        "type": "autor",
+        "id": "a317",
+        "label": "Marco Aurelio Zoqui"
+    }, {
+        "type": "autor",
+        "id": "a318",
+        "label": "Bego\u00f1a Piz\u00e1 Vich"
+    }, {
+        "type": "autor",
+        "id": "a319",
+        "label": "Aula 2 PFTVAL del CPEE Jean Piaget - Granada"
+    }, {
+        "type": "autor",
+        "id": "a320",
+        "label": "Elizabeth Deniz"
+    }, {
+        "type": "autor",
+        "id": "a321",
+        "label": "Paqui Ruiz"
+    }, {
+        "type": "autor",
+        "id": "a322",
+        "label": "Grupo Giga Affective Lab (Universidad de Zaragoza)"
+    }, {
+        "type": "autor",
+        "id": "a323",
+        "label": "Mar\u00eda Alonso Vidal de Torres"
+    }, {
+        "type": "autor",
+        "id": "a324",
+        "label": "Amaya Ariz Argaya"
+    }, {
+        "type": "autor",
+        "id": "a325",
+        "label": "Luc\u00eda Linares Sancho"
+    }, {
+        "type": "autor",
+        "id": "a326",
+        "label": "Roc\u00edo Villarrubia Nombela"
+    }, {
+        "type": "autor",
+        "id": "a329",
+        "label": "Fernando Negre Ramos"
+    }, {
+        "type": "autor",
+        "id": "a330",
+        "label": "David Ramos Sigu\u00edn"
+    }, {
+        "type": "autor",
+        "id": "a331",
+        "label": "Pablo Mu\u00f1oz Orba\u00f1anos "
+    }, {
+        "type": "autor",
+        "id": "a332",
+        "label": " Antonio Rodr\u00edguez Villanueva "
+    }, {
+        "type": "autor",
+        "id": "a333",
+        "label": "Beatriz Mateo Mendaza"
+    }, {
+        "type": "autor",
+        "id": "a334",
+        "label": "Patricia Mart\u00ednez Jaray "
+    }, {
+        "type": "autor",
+        "id": "a335",
+        "label": "Carolina Palacio Juli\u00e1n "
+    }, {
+        "type": "autor",
+        "id": "a336",
+        "label": " Eduardo Ferrer Domingo "
+    }, {
+        "type": "autor",
+        "id": "a337",
+        "label": "Antonio Rodr\u00edguez Villanueva"
+    }, {
+        "type": "autor",
+        "id": "a338",
+        "label": "Bego\u00f1a Bergua S\u00e1nchez"
+    }, {
+        "type": "autor",
+        "id": "a339",
+        "label": "Mar\u00eda Isabel Gonz\u00e1lez Ram\u00edrez"
+    }, {
+        "type": "autor",
+        "id": "a340",
+        "label": "Eduardo Lleida"
+    }, {
+        "type": "autor",
+        "id": "a341",
+        "label": "William Ricardo Rodr\u00edguez"
+    }, {
+        "type": "autor",
+        "id": "a342",
+        "label": "Carlos Vaquero"
+    }, {
+        "type": "autor",
+        "id": "a343",
+        "label": "Antonio Escart\u00edn"
+    }, {
+        "type": "autor",
+        "id": "a344",
+        "label": "Pedro Peguero"
+    }, {
+        "type": "autor",
+        "id": "a345",
+        "label": "\u00d3scar Saz Torralba"
+    }, {
+        "type": "autor",
+        "id": "a346",
+        "label": "Ana Blasco"
+    }, {
+        "type": "autor",
+        "id": "a347",
+        "label": "Maria Rodriguez Maeso"
+    }, {
+        "type": "autor",
+        "id": "a348",
+        "label": "M\u00aa Jes\u00fas Moros"
+    }, {
+        "type": "autor",
+        "id": "a349",
+        "label": "Leti Nieto"
+    }, {
+        "type": "autor",
+        "id": "a350",
+        "label": "Leti Nieto"
+    }, {
+        "type": "autor",
+        "id": "a351",
+        "label": "Asociaci\u00f3n Navarra de Autismo"
+    }, {
+        "type": "autor",
+        "id": "a352",
+        "label": "Esther Moreno"
+    }, {
+        "type": "autor",
+        "id": "a353",
+        "label": "Leonor Sanchez Lerida"
+    }, {
+        "type": "autor",
+        "id": "a354",
+        "label": "CENTRO PHONOS DONOSTIA"
+    }, {
+        "type": "autor",
+        "id": "a355",
+        "label": "Maria Grazia Fiore"
+    }, {
+        "type": "autor",
+        "id": "a356",
+        "label": "Chus CaHer "
+    }, {
+        "type": "autor",
+        "id": "a357",
+        "label": "Thierry Danigo"
+    }, {
+        "type": "autor",
+        "id": "a358",
+        "label": "Lorena Merino Bermejo"
+    }, {
+        "type": "autor",
+        "id": "a359",
+        "label": "Mercedes Ortiga"
+    }, {
+        "type": "autor",
+        "id": "a360",
+        "label": "Gustavo Sampaio"
+    }, {
+        "type": "autor",
+        "id": "a361",
+        "label": "Appnotize UG"
+    }, {
+        "type": "autor",
+        "id": "a362",
+        "label": "Paula Sanchis"
+    }, {
+        "type": "autor",
+        "id": "a363",
+        "label": "M. \u00c0ngels Frigola"
+    }, {
+        "type": "autor",
+        "id": "a364",
+        "label": "AFTEA"
+    }, {
+        "type": "autor",
+        "id": "a365",
+        "label": "Elena Garc\u00eda Morell"
+    }, {
+        "type": "autor",
+        "id": "a366",
+        "label": "Cristina Moreno Caballero"
+    }, {
+        "type": "autor",
+        "id": "a367",
+        "label": "Ver\u00f3nica Paredes Mart\u00ednez"
+    }, {
+        "type": "autor",
+        "id": "a368",
+        "label": "Esther Mart\u00ednez"
+    }, {
+        "type": "autor",
+        "id": "a369",
+        "label": "Loli Carrascosa Embuena"
+    }, {
+        "type": "autor",
+        "id": "a370",
+        "label": "Beatriz L\u00f3pez Pires"
+    }, {
+        "type": "autor",
+        "id": "a371",
+        "label": "Eva Benito Mart\u00ednez"
+    }, {
+        "type": "autor",
+        "id": "a372",
+        "label": "Cristina Ferr\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a373",
+        "label": "Julia Azagra Azagra"
+    }, {
+        "type": "autor",
+        "id": "a374",
+        "label": "Roc\u00edo Felguera Mart\u00ednez"
+    }, {
+        "type": "autor",
+        "id": "a375",
+        "label": "M\u00aa Jos\u00e9 Fern\u00e1ndez"
+    }, {
+        "type": "autor",
+        "id": "a376",
+        "label": "Roc\u00edo Verd\u00fa"
+    }, {
+        "type": "autor",
+        "id": "a377",
+        "label": "Jes\u00fas Marcial Grande Guti\u00e9rrez"
+    }, {
+        "type": "autor",
+        "id": "a378",
+        "label": "Sonia Borr\u00e1s"
+    }, {
+        "type": "autor",
+        "id": "a379",
+        "label": "Natalia Caballero Alba"
+    }, {
+        "type": "autor",
+        "id": "a380",
+        "label": "Laura Garc\u00eda Sim\u00f3n"
+    }, {
+        "type": "autor",
+        "id": "a381",
+        "label": "Susana S\u00e1nchez Pimentel"
+    }, {
+        "type": "autor",
+        "id": "a382",
+        "label": "Marta Hern\u00e1ndez Mart\u00edn"
+    }, {
+        "type": "autor",
+        "id": "a383",
+        "label": "Nieves Fern\u00e1ndez Men\u00e9ndez"
+    }, {
+        "type": "autor",
+        "id": "a384",
+        "label": "Esther Mart\u00ednez Moreno"
+    }, {
+        "type": "autor",
+        "id": "a385",
+        "label": "Lorena Gracia"
+    }, {
+        "type": "autor",
+        "id": "a386",
+        "label": "Equipo de Logopedia Aprendo a Hablar.S.L."
+    }, {
+        "type": "autor",
+        "id": "a387",
+        "label": "Elena Borrell Tormo"
+    }, {
+        "type": "autor",
+        "id": "a388",
+        "label": "Luc\u00eda Serrano Palomo"
+    }, {
+        "type": "autor",
+        "id": "a389",
+        "label": "Cristina Cort\u00e9s Miranda"
+    }, {
+        "type": "autor",
+        "id": "a390",
+        "label": "Maria de la Cruz Jimeno Vera"
+    }, {
+        "type": "autor",
+        "id": "a391",
+        "label": "M\u00aa \u00c1ngeles Nogales"
+    }, {
+        "type": "autor",
+        "id": "a392",
+        "label": "Maria Jos\u00e9 Soler Guerrero"
+    }, {
+        "type": "autor",
+        "id": "a393",
+        "label": "Laura Ram\u00edrez Ruiz"
+    }, {
+        "type": "autor",
+        "id": "a394",
+        "label": "Celia Alcaraz"
+    }, {
+        "type": "autor",
+        "id": "a395",
+        "label": "Loren Golczer"
+    }, {
+        "type": "autor",
+        "id": "a396",
+        "label": "Micaela Casta\u00f1o Carretero"
+    }, {
+        "type": "autor",
+        "id": "a397",
+        "label": "Sara D\u00edaz Donaire"
+    }, {
+        "type": "autor",
+        "id": "a398",
+        "label": "Pilar Le\u00f3n S\u00e1ncez"
+    }, {
+        "type": "autor",
+        "id": "a399",
+        "label": "Elena Zapata Valero"
+    }, {
+        "type": "autor",
+        "id": "a400",
+        "label": "Mireia Romero Ll\u00e1cer"
+    }, {
+        "type": "autor",
+        "id": "a401",
+        "label": "Neus Romero Ll\u00e1cer"
+    }, {
+        "type": "autor",
+        "id": "a402",
+        "label": "Jos\u00e9 Carlos Garc\u00eda Seco"
+    }]
+}

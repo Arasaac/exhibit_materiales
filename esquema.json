@@ -1,0 +1,48 @@
+{
+    "types": {
+        "Item": {
+            "pluralLabel": "Materiales",
+            "label": "Material"
+        }
+    },
+    "properties": {
+        "edad": {
+            "valueType": "item"
+        },
+        "nivel": {
+            "valueType": "item"
+        },
+        "area_curricular": {
+            "valueType": "item"
+        },
+        "tipo": {
+            "valueType": "item"
+        },
+        "autor": {
+            "valueType": "item",
+            "label": "creado por",
+            "reverseLabel": "autor de ",
+            "reversePluralLabel": "autores de",
+            "groupingLabel": "sus autores",
+            "reverseGroupingLabel": "sus materiales"
+        },
+        "fecha_alta": {
+            "valueType": "date"
+        },
+
+        "licencia": {
+            "valueType": "item"
+        },
+        "idiomas": {
+            "valueType": "item"
+        },
+
+        "estado": {
+            "valueType": "item"
+        },
+
+        "dirigido": {
+            "valueType": "item"
+        }
+    }
+}
