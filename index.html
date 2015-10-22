@@ -11,6 +11,7 @@
     <link href="edades.json" type="application/json" rel="exhibit-data" />
     <link href="niveles.json" type="application/json" rel="exhibit-data" />
     <link href="tipos.json" type="application/json" rel="exhibit-data" />
+    <link rel="exhibit-extension" type="text/javascript" href="http://api.simile-widgets.org/exhibit/current/extensions/time/time-extension.js" />
     <script src="http://api.simile-widgets.org/exhibit/current/exhibit-api.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap-theme.min.css" />
@@ -34,7 +35,7 @@
 
             link.appendChild(iconfile);
             docfrag.appendChild(link);
-            docfrag.appendChild(document.createTextNode('  '));
+            docfrag.appendChild(document.createTextNode(" "));
         }
         links.appendChild(docfrag);
     }
@@ -63,10 +64,8 @@
                 <div data-ex-role="facet" data-ex-facet-class="TextSearch" data-ex-facet-label="Search" data-ex-expressions=".label, .descripcion, .autor.label"></div>
                 <div data-ex-role="facet" data-ex-expression=".autor" data-ex-show-missing="false" data-ex-facet-label="Autor" data-ex-sort-mode="count"></div>
                 <div data-ex-role="facet" data-ex-expression=".edad" data-ex-show-missing="false" data-ex-fixed-order="0 a 3;3 a 6;6 a 9;9 a 12;12 a 15;15 a 18;Adultos;Ancianos;Otros intervalos" data-ex-facet-label="Edad"></div>
-                <div data-ex-role="facet" data-ex-expression=".nivel" data-ex-show-missing="false" data-ex-facet-label="Nivel educativo" data-ex-fixed-order="E.Especial;E.Infantil;E.Primaria;E.S.O;E.Adultos;TVA - Transición Vida Adulta;Ancianos;Centros Ocupacionales"
-                ></div>
-                <div data-ex-role="facet" data-ex-expression=".tipo" data-ex-show-missing="false" data-ex-facet-label="Tipo de recurso" data-ex-fixed-order="E.Especial;E.Infantil;E.Primaria;E.S.O;E.Adultos;TVA - Transición Vida Adulta;Ancianos;Centros Ocupacionales"
-                ></div>
+                <div data-ex-role="facet" data-ex-expression=".nivel" data-ex-show-missing="false" data-ex-facet-label="Nivel educativo" data-ex-fixed-order="E.Especial;E.Infantil;E.Primaria;E.S.O;E.Adultos;TVA - Transición Vida Adulta;Ancianos;Centros Ocupacionales"></div>
+                <div data-ex-role="facet" data-ex-expression=".tipo" data-ex-show-missing="false" data-ex-facet-label="Tipo de recurso" data-ex-fixed-order="E.Especial;E.Infantil;E.Primaria;E.S.O;E.Adultos;TVA - Transición Vida Adulta;Ancianos;Centros Ocupacionales"></div>
             </div>
             <div class="col-xs-9">
                 <div data-ex-role="lens" data-ex-item-types="autor" style="display: none">
@@ -82,7 +81,11 @@
                     <p><span class="ar_link" data-ex-content=".archivos" style="display: none"></span></p>
                     <p class="links"><strong>Descargas:</strong> </p>
                 </div>
-                <div data-ex-role="exhibit-view" data-ex-label="Tiles" data-ex-paginate="true" data-ex-showAll="false" data-ex-grouped="false" data-ex-orders="fecha-alta" data-ex-directions="descending" data-ex-possible-orders=".autor, .label">
+                <div data-ex-role="viewPanel">
+                    <div data-ex-role="view" data-ex-label="Listado" data-ex-paginate="true" data-ex-showAll="false" data-ex-grouped="false" data-ex-orders="fecha-alta" data-ex-directions="descending" data-ex-possible-orders=".autor, .label">
+                    </div>
+                    <div data-ex-role="view" data-ex-view-class="Timeline" data-ex-start=".fecha_alta" data-ex-color-key=".tipo.label" data-ex-caption=".discipline" data-ex-bubble-width="150" data-ex-bubble-height="150" date-time-format="iso8601">
+                    </div>
                 </div>
             </div>
         </div>
