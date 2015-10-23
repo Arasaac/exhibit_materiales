@@ -230,7 +230,7 @@
     }, {
         "edad": ["e4", "e5", "e6", "e4", "e5", "e6"],
         "nivel": ["n1", "n2", "n7", "n1", "n2", "n7"],
-        "archivos": ["asociacion.doc", "asociacion.pdf", "true", "true"],
+        "archivos": ["asociacion.doc", "asociacion.pdf"],
         "tipo": ["t15", "t15"],
         "fecha_alta": "2009-06-13T17:05:34",
         "subarea_curricular": ["13", "15", "13", "15"],
@@ -1313,7 +1313,7 @@
     }, {
         "edad": ["e2", "e3"],
         "nivel": ["n1", "n2"],
-        "archivos": ["cuentohormiga.ppt", "true"],
+        "archivos": ["cuentohormiga.ppt"],
         "tipo": ["t1", "t4"],
         "fecha_alta": "2009-06-13T17:12:41",
         "subarea_curricular": ["18", "15", "16", "17"],
@@ -1446,7 +1446,7 @@
     }, {
         "edad": ["e2", "e3", "e4"],
         "nivel": ["n1", "n2", "n3"],
-        "archivos": ["tiendas sencillo.pps", "tiendas sencillo2 .pps", "true", "true"],
+        "archivos": ["tiendas sencillo.pps", "tiendas sencillo2 .pps"],
         "tipo": ["t4"],
         "fecha_alta": "2009-06-13T12:31:52",
         "subarea_curricular": ["15", "16", "17", "18"],
@@ -24132,7 +24132,7 @@
     }, {
         "edad": ["e2", "e3", "e4", "e5", "e7", "e8", "e2", "e3", "e4", "e5", "e7", "e8"],
         "nivel": ["n1", "n2", "n3", "n5", "n6", "n7", "n8", "n1", "n2", "n3", "n5", "n6", "n7", "n8"],
-        "archivos": ["manual de instrucciones.pdf", "true"],
+        "archivos": ["manual de instrucciones.pdf"],
         "tipo": ["t2", "t2"],
         "fecha_alta": "2015-07-14T12:09:13",
         "subarea_curricular": ["18", "18"],
