@@ -19,12 +19,19 @@
     <script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="text/javascript">
+    jQuery(document).bind("onItemShow.exhibit", function(item, node) {
+        console.log("Item show event");
+    });
+    </script>
+    <script type="text/javascript">
     function creaLink(material) {
         var url_arasaac = "http://arasaac.org/zona_descargas/materiales/";
         var itemID = material.getAttribute("itemid");
         var archivos = material.getElementsByClassName("ar_link")[0].getElementsByTagName('span');
         var links = material.getElementsByClassName("links")[0];
-        var docfrag = document.createDocumentFragment();
+        var docfrag = document.createElement('div');
+        //docfrag.setAttributeNode('style', 'display: None');
+        docfrag.className = "hidden";
 
         for (i = 0; i < archivos.length; i++) {
             var iconfile = document.createElement('span');
@@ -37,12 +44,23 @@
             docfrag.appendChild(link);
             docfrag.appendChild(document.createTextNode(" "));
         }
-        links.appendChild(docfrag);
+        docfrag.appendChild(document.createElement('br'));
+        links.parentNode.appendChild(docfrag);
     }
+    </script>
+    <script type="text/javascript">
+    function muestra(objeto) {
+            event.preventDefault();
+            var target = jQuery(objeto).siblings('div');
+            jQuery(target).toggleClass('hidden show');
+    };
     </script>
     <style>
     .links ul li {
         display: inline
+    }
+    ol.exhibit-tileView-body li {
+        margin: 1em 0;
     }
     </style>
 </head>
@@ -79,12 +97,12 @@
                     <p><span data-ex-content=".descripcion"></span></p>
                     <p><strong>De </strong><span data-ex-content=".autor"></span></p>
                     <p><span class="ar_link" data-ex-content=".archivos" style="display: none"></span></p>
-                    <p class="links"><strong>Descargas:</strong> </p>
+                    <button onclick="muestra(this)" class="links toggle btn btn-primary">Descargas:</button>
                 </div>
                 <div data-ex-role="viewPanel">
                     <div data-ex-role="view" data-ex-label="Listado" data-ex-paginate="true" data-ex-showAll="false" data-ex-grouped="false" data-ex-orders="fecha-alta" data-ex-directions="descending" data-ex-possible-orders=".autor, .label">
                     </div>
-                    <div data-ex-role="view" data-ex-view-class="Timeline" data-ex-start=".fecha_alta" data-ex-color-key=".tipo.label" data-ex-caption=".discipline" data-ex-bubble-width="150" data-ex-bubble-height="150" date-time-format="iso8601" data-ex-bottom-band-unit="month" >
+                    <div data-ex-role="view" data-ex-view-class="Timeline" data-ex-start=".fecha_alta" data-ex-color-key=".tipo.label" data-ex-caption=".discipline" data-ex-bubble-width="150" data-ex-bubble-height="150" date-time-format="iso8601" data-ex-bottom-band-unit="month">
                     </div>
                 </div>
             </div>
